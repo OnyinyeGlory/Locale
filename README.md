@@ -20,7 +20,7 @@ Follow these steps to run locally:
     cd Locale
     ```
     
-3. Create a `.env` file using the keys in `[.env.example](https://github.com/Onyenso/TantaAuth/blob/main/.env.example)`.
+3. Create a `.env` file using the keys in `.env.example`.
 4. Fill in the missing variables in the `.env` file.
 5. Create a Python virtual environment.
 6. Install packages in `requirements.txt`.
