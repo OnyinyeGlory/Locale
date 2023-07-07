@@ -1,12 +1,12 @@
 # Locale API
 
-# Requirements
+## Requirements
 
 - Python 3.8 or higher
 
-# Project setup
+## Project setup
 
-For each of the services, follow these steps to run locally:
+Follow these steps to run locally:
 
 1. Clone the git repository:
     
