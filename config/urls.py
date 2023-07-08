@@ -34,7 +34,7 @@ schema_view = get_schema_view(
       title="Locale API",
       default_version='v1.0.0',
       description=API_DESCRIPTION,
-      contact=openapi.Contact(email="alphadev.onyenso@gmail.com")
+      contact=openapi.Contact(email="gloryonyinye13@gmail.com")
    ),
    public=True,
    permission_classes=[AllowAny],
